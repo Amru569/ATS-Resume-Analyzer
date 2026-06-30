@@ -133,19 +133,19 @@ npm install
 Run frontend
 
 ```bash
-npm run dev
+npm run build
 ```
 
-Application will start at
+Application will start on vercel
 
 ```
-http://localhost:5173
-```
-
-Backend runs at
 
 ```
-http://localhost:5000
+
+Backend runs on render
+
+```
+
 ```
 
 ---
