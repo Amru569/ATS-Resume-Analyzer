@@ -145,7 +145,8 @@ Application will start on vercel
 Backend runs on render
 
 ```
-
+ats-resume-analyzer-446w-lwmmka4ck-amru569s-projects.vercel.app
+https://ats-resume-analyzer-446w.vercel.app/
 ```
 
 ---
